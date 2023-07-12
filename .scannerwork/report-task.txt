@@ -1,6 +1,0 @@
-projectKey=js-ci-sonarqube
-serverUrl=http://localhost:9000
-serverVersion=10.1.0.73491
-dashboardUrl=http://localhost:9000/dashboard?id=js-ci-sonarqube
-ceTaskId=AYlG5dacRlqlDNZx1Plf
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlG5dacRlqlDNZx1Plf
